@@ -1,0 +1,74 @@
+#tableBody {
+    width: 100%;
+    height: 500px;
+    margin-top: 5%;
+}
+
+#heading {
+    width: 100%;
+    height: 20%;
+    background-color: black;
+    color: blueviolet;
+    text-align: center;
+    font-size: 100px;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+}
+
+html, body{
+    height: 100%;
+}
+
+body {
+    background-color: black;
+}
+
+.mood {
+    color:rgb(136, 128, 128);
+    text-align: center;
+    padding: 50px;
+    font-size: 70px;
+    width: 50%;
+    height: 50%;
+}
+
+footer {
+    display: none;
+    visibility: collapse;
+}
+
+#sad {
+    background-image: url(./resources/sad_default.jpg);
+    padding-bottom: 0%;
+    text-align: center;
+    margin-left:auto;
+    margin-right: auto;
+    background-position: center;
+}
+
+#lost {
+    background-image: url(./resources/lost_default.jpg);
+    padding-bottom: 0%;
+    margin-left: auto;
+    margin-right: auto;
+    background-position: center;
+    background-position-y: bottom;
+}
+
+#accomplished {
+    background-image: url(./resources/accomplished_default.jpg);
+    padding-top: 0%;
+    margin-left: auto;
+    margin-right: auto;
+    background-position: center;
+}
+
+#happy {
+    background-image: url(./resources/happy_default.webp);
+    padding-top:0%;
+    text-align: center;
+    background-position: center;
+    background-size: 100%;
+    background-position-y: 70%;
+}
