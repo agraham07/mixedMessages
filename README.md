@@ -13,5 +13,5 @@ The purpose of this website is to give the user a quote and sentimental backgrou
 
 ## Usage
 
-This project must be ran locally with all the resource files downloaded to function properly. 
+This project must be ran locally with all the resource files downloaded to function properly.<br>
 The first iteration does not contain a click event to go back to the landing page, must refresh in order to reset.
